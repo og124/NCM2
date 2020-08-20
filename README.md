@@ -13,4 +13,4 @@ Useful reference for an instance of the "expect_script" function due to multiple
 
 Should the use of the script change, replace the "copy_command" variable with the cisco command of your choice and update the instances of the "expect_script" function to suit the situation, should prompts be expected.
 
-TD
+OG
