@@ -22,7 +22,7 @@ password = getpass.getpass()
 ip_address_file = open('./networkips.txt')
 ip_address = ip_address_file.read().splitlines()
 
-num_threads = 2
+num_threads = 8
 enclosure_queue = Queue()
 print_lock = threading.Lock()
 
