@@ -3,7 +3,7 @@ Multi-threaded configuration back-up script for networking devices.
 
 Created using Netmiko, this python script pushes the "copy run tftp" command to networking devices by reading a list of IP addresses from a txt file. 
 
-Back-ups stored on the TFTP Server "10.137.79.40"
+Back-ups stored on the TFTP Server.
 
 Multi-threaded and connects to 8 devices at a time.
 
